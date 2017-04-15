@@ -1,0 +1,4 @@
+<map id="battle.logic.MyGame.create" name="battle.logic.MyGame.create">
+<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_my_game.html#a87de308252f1501a8d38c38de2b20eea" title="battle.logic.MyGame.setPlayer1" alt="" coords="236,5,444,32"/>
+<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_my_game.html#ac0bb5b45e1a742456e08868c22cc14d6" title="battle.logic.MyGame.setPlayer2" alt="" coords="236,56,444,83"/>
+</map>

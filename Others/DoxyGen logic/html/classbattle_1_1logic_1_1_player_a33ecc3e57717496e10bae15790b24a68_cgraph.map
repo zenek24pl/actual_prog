@@ -1,0 +1,9 @@
+<map id="battle.logic.Player.surrondSinkedShip" name="battle.logic.Player.surrondSinkedShip">
+<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_player.html#aeaafff7dfe74208d3c6f34617013c945" title="battle.logic.Player.getShips" alt="" coords="230,5,411,32"/>
+<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_ship.html#a83022ce0f87a12a898870a66cdefbe15" title="battle.logic.Ship.getDirection" alt="" coords="227,56,415,83"/>
+<area shape="rect" id="node4" href="$classbattle_1_1logic_1_1_ship.html#a58b7648fda68889ae60a3bd5c203905b" title="battle.logic.Ship.getPosX" alt="" coords="237,107,404,133"/>
+<area shape="rect" id="node5" href="$classbattle_1_1logic_1_1_player.html#a6d4d8e662a181c00fa11aed7aa75f48d" title="battle.logic.Player.getOwn\lBoard" alt="" coords="233,158,408,199"/>
+<area shape="rect" id="node6" href="$classbattle_1_1logic_1_1_board.html#a0678b4c94db8078685665d3188e8711a" title="battle.logic.Board.getBoard" alt="" coords="231,224,410,251"/>
+<area shape="rect" id="node7" href="$classbattle_1_1logic_1_1_ship.html#ae6a23eea17e8d1c8549e0eade029c104" title="battle.logic.Ship.getPosY" alt="" coords="236,275,405,301"/>
+<area shape="rect" id="node8" href="$classbattle_1_1logic_1_1_ship.html#ae2ad1bacad7ba03dc48138267ce97de3" title="battle.logic.Ship.getSize" alt="" coords="239,325,402,352"/>
+</map>

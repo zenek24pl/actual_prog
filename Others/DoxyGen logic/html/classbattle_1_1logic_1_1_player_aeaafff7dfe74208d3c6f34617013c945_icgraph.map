@@ -1,0 +1,4 @@
+<map id="battle.logic.Player.getShips" name="battle.logic.Player.getShips">
+<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_player.html#a4cc37bee8bc4e5574dfa9611375809b8" title="battle.logic.Player.play" alt="" coords="456,5,611,32"/>
+<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_player.html#a33ecc3e57717496e10bae15790b24a68" title="battle.logic.Player.surrond\lSinkedShip" alt="" coords="235,27,408,69"/>
+</map>

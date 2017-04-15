@@ -1,0 +1,6 @@
+<map id="battle.logic.MyGame.gesture" name="battle.logic.MyGame.gesture">
+<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_gesture_handler.html#a1b26029ab29b186ae867bfa6e71d278a" title="battle.logic.GestureHandler.getX" alt="" coords="244,5,452,32"/>
+<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_gesture_handler.html#ae4522a517f6774b1d5182955b215e2a8" title="battle.logic.GestureHandler.getY" alt="" coords="243,56,453,83"/>
+<area shape="rect" id="node4" href="$classbattle_1_1logic_1_1_my_game.html#a726ff655252e52e5dda1e29b57e3b40d" title="battle.logic.MyGame.getPlayer1" alt="" coords="244,107,452,133"/>
+<area shape="rect" id="node5" href="$classbattle_1_1logic_1_1_my_game.html#a121ac8300c5b8898d2cd260a57d72b14" title="battle.logic.MyGame.getPlayer2" alt="" coords="244,157,452,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="battle.logic.Player.validShip" name="battle.logic.Player.validShip">
+<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_player.html#ad7f2dd82e160449b8c5f9c3e49dbde61" title="battle.logic.Player.random\lBoard" alt="" coords="235,5,408,47"/>
+<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_player.html#a5ee36edb16d8e2f5954c3ab3c6f8ef47" title="battle.logic.Player.valid\lBoard" alt="" coords="244,71,399,112"/>
+</map>

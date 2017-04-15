@@ -1,0 +1,4 @@
+<map id="battle.gui.PlaceScreen.changeShipDir" name="battle.gui.PlaceScreen.changeShipDir">
+<area shape="rect" id="node2" href="$classbattle_1_1gui_1_1_place_screen.html#af1eeaa112e3cab1e60b20c37e5459fa1" title="battle.gui.PlaceScreen.change\lDirection" alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classbattle_1_1gui_1_1_place_screen.html#ac35c9034250121006918020e6a7c96b1" title="battle.gui.PlaceScreen.render" alt="" coords="499,13,692,39"/>
+</map>

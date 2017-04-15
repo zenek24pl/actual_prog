@@ -1,0 +1,13 @@
+<map id="battle.logic.Player.randomBoard" name="battle.logic.Player.randomBoard">
+<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_player.html#a79fbbe800a71c9c36dc6e919eecd816d" title="battle.logic.Player.validShip" alt="" coords="230,165,411,192"/>
+<area shape="rect" id="node9" href="$classbattle_1_1logic_1_1_player.html#aa09ea411ad92b0dbbbc4ce409c09eded" title="battle.logic.Player.fill\lBoardShip" alt="" coords="249,99,392,141"/>
+<area shape="rect" id="node10" href="$classbattle_1_1logic_1_1_ship.html#afc4e686077e571a0496f3d5140e32f6a" title="battle.logic.Ship.setPosX" alt="" coords="237,216,404,243"/>
+<area shape="rect" id="node11" href="$classbattle_1_1logic_1_1_ship.html#a3f7a986b6949e2dd734d2996da182608" title="battle.logic.Ship.setPosY" alt="" coords="236,267,405,293"/>
+<area shape="rect" id="node12" href="$classbattle_1_1logic_1_1_ship.html#a90d3bef9e0e2dd3b67c8a8a8c71ae73f" title="battle.logic.Ship.setDirection" alt="" coords="227,317,415,344"/>
+<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_ship.html#a83022ce0f87a12a898870a66cdefbe15" title="battle.logic.Ship.getDirection" alt="" coords="463,5,651,32"/>
+<area shape="rect" id="node4" href="$classbattle_1_1logic_1_1_ship.html#a58b7648fda68889ae60a3bd5c203905b" title="battle.logic.Ship.getPosX" alt="" coords="473,56,640,83"/>
+<area shape="rect" id="node5" href="$classbattle_1_1logic_1_1_ship.html#ae2ad1bacad7ba03dc48138267ce97de3" title="battle.logic.Ship.getSize" alt="" coords="475,107,638,133"/>
+<area shape="rect" id="node6" href="$classbattle_1_1logic_1_1_player.html#a6d4d8e662a181c00fa11aed7aa75f48d" title="battle.logic.Player.getOwn\lBoard" alt="" coords="469,158,644,199"/>
+<area shape="rect" id="node7" href="$classbattle_1_1logic_1_1_board.html#a0678b4c94db8078685665d3188e8711a" title="battle.logic.Board.getBoard" alt="" coords="467,224,646,251"/>
+<area shape="rect" id="node8" href="$classbattle_1_1logic_1_1_ship.html#ae6a23eea17e8d1c8549e0eade029c104" title="battle.logic.Ship.getPosY" alt="" coords="472,275,641,301"/>
+</map>

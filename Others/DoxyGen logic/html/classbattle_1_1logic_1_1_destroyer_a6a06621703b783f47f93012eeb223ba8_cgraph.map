@@ -1,0 +1,8 @@
+<map id="battle.logic.Destroyer.Destroyer" name="battle.logic.Destroyer.Destroyer">
+<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_ship.html#afc4e686077e571a0496f3d5140e32f6a" title="battle.logic.Ship.setPosX" alt="" coords="269,5,436,32"/>
+<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_ship.html#a3f7a986b6949e2dd734d2996da182608" title="battle.logic.Ship.setPosY" alt="" coords="268,56,437,83"/>
+<area shape="rect" id="node4" href="$classbattle_1_1logic_1_1_ship.html#acd85fa0c30fc2b28f286db4449f7fb55" title="battle.logic.Ship.setSize" alt="" coords="271,107,434,133"/>
+<area shape="rect" id="node5" href="$classbattle_1_1logic_1_1_ship.html#a90d3bef9e0e2dd3b67c8a8a8c71ae73f" title="battle.logic.Ship.setDirection" alt="" coords="259,157,447,184"/>
+<area shape="rect" id="node6" href="$classbattle_1_1logic_1_1_ship.html#ac0d663909c4fe4066f43ad140d02741d" title="battle.logic.Ship.setSink" alt="" coords="271,208,434,235"/>
+<area shape="rect" id="node7" href="$classbattle_1_1logic_1_1_ship.html#a8c4e6b3759d8e18b3bbd5638cab97886" title="battle.logic.Ship.isSink" alt="" coords="495,208,649,235"/>
+</map>
