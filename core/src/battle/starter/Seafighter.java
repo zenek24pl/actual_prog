@@ -23,11 +23,7 @@ public class Seafighter extends Game{
 	public void create() {
 		setPlayer1(new Player());
 		setPlayer2(new Player());
-		
-		//menu = new MainMenuScreen(this);
         place = new PlaceScreen(this);
-       
-       
         setScreen(place);
 	
 	}
