@@ -1,6 +1,6 @@
 package com.lpoo.battleship.desktop;
 
-import battle.logic.MyGame;
+import battle.starter.Seafighter;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
@@ -11,7 +11,7 @@ public class DesktopLauncher {
 		//config.width = 1024;
 		//config.height = 768;
 		
-		config.title = "BattleShip";
-		new LwjglApplication(new MyGame(), config);
+		config.title = "FourPlacesShip";
+		new LwjglApplication(new Seafighter(), config);
 	}
 }

@@ -1,5 +1,0 @@
-<map id="battle.logic.Ship.cleanBoard" name="battle.logic.Ship.cleanBoard">
-<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_board.html#a0678b4c94db8078685665d3188e8711a" title="battle.logic.Board.getBoard" alt="" coords="237,5,416,32"/>
-<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_ship.html#a58b7648fda68889ae60a3bd5c203905b" title="battle.logic.Ship.getPosX" alt="" coords="243,56,410,83"/>
-<area shape="rect" id="node4" href="$classbattle_1_1logic_1_1_ship.html#ae6a23eea17e8d1c8549e0eade029c104" title="battle.logic.Ship.getPosY" alt="" coords="242,107,411,133"/>
-</map>

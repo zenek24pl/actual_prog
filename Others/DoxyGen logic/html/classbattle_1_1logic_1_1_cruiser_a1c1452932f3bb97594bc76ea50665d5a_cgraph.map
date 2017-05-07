@@ -1,8 +1,0 @@
-<map id="battle.logic.Cruiser.Cruiser" name="battle.logic.Cruiser.Cruiser">
-<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_ship.html#afc4e686077e571a0496f3d5140e32f6a" title="battle.logic.Ship.setPosX" alt="" coords="239,5,405,32"/>
-<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_ship.html#a3f7a986b6949e2dd734d2996da182608" title="battle.logic.Ship.setPosY" alt="" coords="237,56,407,83"/>
-<area shape="rect" id="node4" href="$classbattle_1_1logic_1_1_ship.html#acd85fa0c30fc2b28f286db4449f7fb55" title="battle.logic.Ship.setSize" alt="" coords="241,107,403,133"/>
-<area shape="rect" id="node5" href="$classbattle_1_1logic_1_1_ship.html#a90d3bef9e0e2dd3b67c8a8a8c71ae73f" title="battle.logic.Ship.setDirection" alt="" coords="228,157,416,184"/>
-<area shape="rect" id="node6" href="$classbattle_1_1logic_1_1_ship.html#ac0d663909c4fe4066f43ad140d02741d" title="battle.logic.Ship.setSink" alt="" coords="241,208,403,235"/>
-<area shape="rect" id="node7" href="$classbattle_1_1logic_1_1_ship.html#a8c4e6b3759d8e18b3bbd5638cab97886" title="battle.logic.Ship.isSink" alt="" coords="464,208,619,235"/>
-</map>

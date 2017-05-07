@@ -1,4 +1,0 @@
-<map id="battle.gui.PlaceScreen.addShip" name="battle.gui.PlaceScreen.addShip">
-<area shape="rect" id="node2" href="$classbattle_1_1gui_1_1_place_screen.html#ab4eaa10b21505571566026549781f0ec" title="battle.gui.PlaceScreen.placeShip" alt="" coords="257,5,472,32"/>
-<area shape="rect" id="node3" href="$classbattle_1_1gui_1_1_place_screen.html#ac35c9034250121006918020e6a7c96b1" title="battle.gui.PlaceScreen.render" alt="" coords="520,5,713,32"/>
-</map>

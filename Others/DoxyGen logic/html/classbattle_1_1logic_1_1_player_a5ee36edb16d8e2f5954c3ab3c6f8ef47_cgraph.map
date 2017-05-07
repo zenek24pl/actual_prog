@@ -1,9 +1,0 @@
-<map id="battle.logic.Player.validBoard" name="battle.logic.Player.validBoard">
-<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_player.html#a79fbbe800a71c9c36dc6e919eecd816d" title="battle.logic.Player.validShip" alt="" coords="208,136,389,163"/>
-<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_ship.html#a83022ce0f87a12a898870a66cdefbe15" title="battle.logic.Ship.getDirection" alt="" coords="437,5,625,32"/>
-<area shape="rect" id="node4" href="$classbattle_1_1logic_1_1_ship.html#a58b7648fda68889ae60a3bd5c203905b" title="battle.logic.Ship.getPosX" alt="" coords="448,56,615,83"/>
-<area shape="rect" id="node5" href="$classbattle_1_1logic_1_1_ship.html#ae2ad1bacad7ba03dc48138267ce97de3" title="battle.logic.Ship.getSize" alt="" coords="450,107,613,133"/>
-<area shape="rect" id="node6" href="$classbattle_1_1logic_1_1_player.html#a6d4d8e662a181c00fa11aed7aa75f48d" title="battle.logic.Player.getOwn\lBoard" alt="" coords="444,158,619,199"/>
-<area shape="rect" id="node7" href="$classbattle_1_1logic_1_1_board.html#a0678b4c94db8078685665d3188e8711a" title="battle.logic.Board.getBoard" alt="" coords="442,224,621,251"/>
-<area shape="rect" id="node8" href="$classbattle_1_1logic_1_1_ship.html#ae6a23eea17e8d1c8549e0eade029c104" title="battle.logic.Ship.getPosY" alt="" coords="447,275,616,301"/>
-</map>

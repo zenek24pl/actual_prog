@@ -1,8 +1,0 @@
-<map id="battle.logic.Ship.setDirection" name="battle.logic.Ship.setDirection">
-<area shape="rect" id="node2" href="$classbattle_1_1logic_1_1_aircraft_carrier.html#aa5045d520a27b2b1e514885356eee6ad" title="battle.logic.AircraftCarrier.\lAircraftCarrier" alt="" coords="264,5,436,47"/>
-<area shape="rect" id="node3" href="$classbattle_1_1logic_1_1_battle_ship.html#a9c99d3c5a8260f49ad032318026dc361" title="battle.logic.BattleShip.\lBattleShip" alt="" coords="273,71,427,112"/>
-<area shape="rect" id="node4" href="$classbattle_1_1logic_1_1_cruiser.html#a1c1452932f3bb97594bc76ea50665d5a" title="battle.logic.Cruiser.Cruiser" alt="" coords="263,137,437,163"/>
-<area shape="rect" id="node5" href="$classbattle_1_1logic_1_1_destroyer.html#a6a06621703b783f47f93012eeb223ba8" title="battle.logic.Destroyer.Destroyer" alt="" coords="247,187,453,214"/>
-<area shape="rect" id="node6" href="$classbattle_1_1logic_1_1_player.html#ad7f2dd82e160449b8c5f9c3e49dbde61" title="battle.logic.Player.random\lBoard" alt="" coords="263,239,437,280"/>
-<area shape="rect" id="node7" href="$classbattle_1_1logic_1_1_submarine.html#a600819a5c20d7e8d509139f35e5c6957" title="battle.logic.Submarine.Submarine" alt="" coords="241,305,459,331"/>
-</map>

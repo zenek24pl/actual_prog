@@ -1,7 +1,7 @@
 package com.lpoo.battleship.android;
 
 import android.os.Bundle;
-import battle.logic.MyGame;
+import battle.starter.Seafighter;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
@@ -13,6 +13,6 @@ public class AndroidLauncher extends AndroidApplication {
 	protected void onCreate (Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
-		initialize(new MyGame(), config);
+		initialize(new Seafighter(), config);
 	}
 }
